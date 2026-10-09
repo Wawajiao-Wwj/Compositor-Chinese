@@ -1,0 +1,16 @@
+name: Check translations and pages
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Check translation parameters
+        run: python3 source/scripts/verify_localization.py --catalog-only
+      - name: Check page files
+        run: python3 scripts/check_pages.py
