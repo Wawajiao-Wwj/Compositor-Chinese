@@ -1,0 +1,19 @@
+# Build and release artifacts belong in GitHub Releases.
+build/
+dist/
+DerivedData/
+*.dmg
+*.xcarchive
+*.xcresult
+
+# Local files, editor state, and signing credentials.
+.DS_Store
+__pycache__/
+*.pyc
+xcuserdata/
+*.xcuserstate
+.env
+*.p12
+*.p8
+*.cer
+*.certSigningRequest
