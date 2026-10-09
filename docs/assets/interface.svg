@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="690" viewBox="0 0 1040 690" role="img" aria-labelledby="title desc">
+  <title id="title">Compositor 中文版界面示意</title>
+  <desc id="desc">深色编辑器中的中文菜单、工具栏和图层面板。画布展示绿色几何海报，画布文字为“把想法，画出来”。这是界面示意，并非应用截图。</desc>
+  <defs>
+    <pattern id="checker" width="20" height="20" patternUnits="userSpaceOnUse"><path fill="#292c2b" d="M0 0h20v20H0z"/><path fill="#2d302f" d="M0 0h10v10H0zm10 10h10v10H10z"/></pattern>
+    <clipPath id="frame"><rect width="1040" height="690" rx="12"/></clipPath>
+    <clipPath id="art"><rect x="108" y="150" width="612" height="458"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <path fill="#232625" d="M0 0h1040v690H0z"/>
+    <path fill="#303330" d="M0 0h1040v46H0z"/>
+    <circle cx="22" cy="23" r="6" fill="#ee6962"/><circle cx="44" cy="23" r="6" fill="#e6b550"/><circle cx="66" cy="23" r="6" fill="#67b963"/>
+    <text x="520" y="28" text-anchor="middle" fill="#d6d9d4" font-size="13" font-weight="550">Compositor 中文 — 未命名.comp</text>
+    <path fill="#292c29" d="M0 46h1040v38H0z"/>
+    <g fill="#bec4bc" font-size="12"><text x="23" y="70" font-weight="650" fill="#e3e7df">Compositor 中文</text><text x="139" y="70">文件</text><text x="188" y="70">编辑</text><text x="237" y="70">图像</text><text x="286" y="70">滤镜</text><text x="335" y="70">图层</text><text x="384" y="70">选择</text><text x="433" y="70">视图</text><text x="482" y="70">窗口</text><text x="531" y="70">帮助</text></g>
+    <path fill="#2c302b" d="M0 84h1040v40H0z"/>
+    <text x="22" y="109" fill="#c7cfc2" font-size="12">移动工具</text><path stroke="#4d534a" d="M94 95v17"/>
+    <rect x="111" y="97" width="11" height="11" rx="2" fill="#94ad86"/><path stroke="#233327" fill="none" d="m113 102 3 3 4-5" stroke-width="1.4"/>
+    <text x="130" y="107" fill="#aab4a5" font-size="11">自动选择图层</text><text x="689" y="108" fill="#8e9a87" font-size="11">100%</text>
+    <path fill="#272b27" d="M0 124h55v534H0z"/>
+    <path stroke="#383e35" d="M55 124v534M0 658h1040M0 123.5h1040"/>
+    <g fill="none" stroke="#a8b3a0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="12" y="141" width="31" height="30" rx="5" fill="#44523d" stroke="none"/>
+      <path d="m22 149 12 8-6 2-3 6z" stroke="#e0e7db"/>
+      <rect x="20" y="187" width="14" height="13" rx="1" stroke-dasharray="2.5 3"/>
+      <path d="M33 219c-11-12-21 0-12 7s18-6 6-7"/>
+      <path d="m23 251 9-9m-12 12 3-4 3 3-4 4-4 1zM29 242l4 4"/>
+      <path d="m20 280 13-13m-9 14h9m-14-5 6 6"/>
+      <path d="M20 303h14m-7-6v16m-7-16h14"/>
+      <path d="M21 332v-10h13m-16 7h10v10m0-3h9"/>
+      <path d="m21 365 5-5 8 8-5 5zM23 355l5 5"/>
+      <path d="M20 398v-14h14v14zM20 391h14"/>
+      <path d="M22 419c-7 4-6 13 2 14h8l4-8-7-8-2 6-3-3z"/>
+      <circle cx="26" cy="456" r="6"/><path d="m31 461 5 5"/>
+    </g>
+    <rect x="24" y="606" width="21" height="21" rx="3" fill="#efefe5" stroke="#7b8375"/><rect x="13" y="595" width="21" height="21" rx="3" fill="#2f653a" stroke="#9baa8c"/>
+    <path fill="url(#checker)" d="M56 125h724v533H56z"/>
+    <path fill="#191e19" opacity=".3" d="M115 157h612v458H115z"/>
+    <g clip-path="url(#art)">
+      <path fill="#e5edc5" d="M108 150h612v458H108z"/>
+      <path fill="#b7d993" d="M494 150h226v458H494z"/>
+      <path stroke="#c4d3ac" d="M144 184h540M144 574h540"/>
+      <text x="145" y="210" fill="#587348" font-size="10" letter-spacing="2">A LITTLE SPACE FOR YOUR IDEAS</text>
+      <text x="145" y="257" fill="#224f30" font-size="33" font-weight="650" letter-spacing="-1">把想法，</text>
+      <text x="145" y="298" fill="#224f30" font-size="33" font-weight="650" letter-spacing="-1">画出来。</text>
+      <circle cx="541" cy="326" r="113" fill="#244f32"/>
+      <path fill="#d9ecb0" d="M541 213a113 113 0 0 1 0 226z"/>
+      <circle cx="541" cy="326" r="60" fill="#80b36b"/>
+      <circle cx="541" cy="326" r="22" fill="#244f32"/>
+      <path fill="#3a6d40" d="M210 522v-162c89 0 161 73 161 162z"/>
+      <path fill="#a3ca7e" d="M210 522v-81a81 81 0 0 0-81 81z"/>
+      <path fill="#7fac61" d="M371 522a81 81 0 0 1-81-81 81 81 0 0 1 81-81z"/>
+      <path fill="#204b30" d="M456 457h164v85H456z"/>
+      <path fill="#d7e8b3" d="m485 498 32-22 32 22-32 22z"/>
+      <circle cx="589" cy="499" r="18" fill="#8cb774"/>
+      <text x="145" y="557" fill="#537746" font-size="10" letter-spacing="1.6">COMPOSITOR / CHINESE EDITION</text>
+      <text x="649" y="558" fill="#537746" font-size="10">01 — 03</text>
+    </g>
+    <path fill="#292e28" d="M780 124h260v534H780z"/><path stroke="#3d4538" d="M780 124v534"/>
+    <path fill="#30362d" d="M780 124h260v42H780z"/>
+    <text x="797" y="150" fill="#e0e6d9" font-size="12" font-weight="600">图层</text><text x="848" y="150" fill="#8e9f84" font-size="12">属性</text>
+    <path fill="#6d8c5e" d="M792 164h41v2h-41z"/>
+    <rect x="792" y="180" width="152" height="27" rx="5" fill="#3a4234"/>
+    <text x="802" y="198" fill="#c2ceba" font-size="11">正常</text><path stroke="#a0b292" fill="none" d="m928 190 4 4 4-4"/>
+    <text x="958" y="198" fill="#b9c9ad" font-size="10">100%</text>
+    <text x="795" y="229" fill="#99ac8d" font-size="10">不透明度</text><path stroke="#506348" d="M865 226h126" stroke-width="3" stroke-linecap="round"/><circle cx="991" cy="226" r="4" fill="#bacbab"/>
+    <path stroke="#3d4737" d="M780 245h260"/>
+    <g fill="none" stroke="#8fa47f" stroke-width="1.3"><path d="M793 274c4-7 13-7 17 0-4 7-13 7-17 0z"/><circle cx="801.5" cy="274" r="2"/><path d="M793 326c4-7 13-7 17 0-4 7-13 7-17 0z"/><circle cx="801.5" cy="326" r="2"/><path d="M793 378c4-7 13-7 17 0-4 7-13 7-17 0z"/><circle cx="801.5" cy="378" r="2"/><path d="M793 430c4-7 13-7 17 0-4 7-13 7-17 0z"/><circle cx="801.5" cy="430" r="2"/></g>
+    <rect x="814" y="252" width="216" height="47" rx="5" fill="#46583b"/>
+    <rect x="824" y="260" width="31" height="31" rx="3" fill="#dce9bc"/><text x="833" y="281" font-size="17" fill="#365631" font-weight="600">T</text><text x="866" y="280" fill="#e1ecd7" font-size="11">标题文字</text>
+    <rect x="824" y="312" width="31" height="31" rx="3" fill="#cee0a9"/><circle cx="840" cy="328" r="9" fill="#34633b"/><text x="866" y="332" fill="#b7c9a9" font-size="11">几何形状</text>
+    <rect x="824" y="364" width="31" height="31" rx="3" fill="#b4d689"/><path fill="#47703c" d="M829 390v-21c12 0 21 9 21 21z"/><text x="866" y="384" fill="#b7c9a9" font-size="11">植物图形</text>
+    <rect x="824" y="416" width="31" height="31" rx="3" fill="#e5edc5"/><text x="866" y="436" fill="#b7c9a9" font-size="11">背景</text>
+    <g fill="none" stroke="#8ea080" stroke-width="1.4"><rect x="1002" y="427" width="8" height="8" rx="1"/><path d="M1004 427v-3a2 2 0 0 1 4 0v3"/></g>
+    <path stroke="#3d4737" d="M780 621h260"/>
+    <g fill="none" stroke="#93a586" stroke-width="1.5" stroke-linecap="round"><path d="M799 639h12m-6-6v12"/><rect x="840" y="633" width="13" height="11" rx="1"/><circle cx="846.5" cy="638.5" r="2.5"/><path d="M882 633h7l3 3h10v9h-20zM940 634v10m-5-5h10M1000 635h12m-10 0 1 10h6l1-10m-6-3h4"/></g>
+    <path fill="#292e27" d="M0 659h1040v31H0z"/><text x="17" y="679" fill="#91a287" font-size="10">100%</text><text x="81" y="679" fill="#819677" font-size="10">640 × 480 px</text><text x="997" y="679" fill="#819677" font-size="10" text-anchor="end">简体中文 · 界面示意</text>
+  </g>
+</svg>
